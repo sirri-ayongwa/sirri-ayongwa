@@ -3,12 +3,9 @@
 I’m **Sirri Ayongwa**, a shy introvert who codes and manages social media pages.  
 
 - **Location:** Wandering through the world🌍 (Cameroon → Nigeria → Bangladesh)
-
-## 🎓 Education
 - **Education:**  
-   |→ _Advanced Diploma in Software Engineering (ADSE)_ > **Aptech**  
-       |→ _Pursuing a BSc. in Computer Science_ > **UoPeople** _(Expected Aug 2026)_
-
+   - |→ _Advanced Diploma in Software Engineering (ADSE)_ > **Aptech**  
+       - |→ _Pursuing a BSc. in Computer Science_ > **UoPeople** _(Expected Aug 2026)_
 <br>
 
 ## Some of the technologies I play with:  
