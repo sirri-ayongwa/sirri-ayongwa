@@ -1,11 +1,14 @@
-# Hey there 👋  
+# You found me, might as well get to know me
 
 I’m **Sirri Ayongwa**, a shy introvert who codes and manages social media pages.  
 
 - **Location:** Wandering through the world🌍 (Cameroon → Nigeria → Bangladesh)
-- **Education:**
-      |→ _Advanced Diploma in Software Engineering (ADSE)_ > **Aptech**
-         |→ _pursuing a BSc. in Computer Science_ > **UoPeople**
+
+## 🎓 Education
+- **Education:**  
+   |→ _Advanced Diploma in Software Engineering (ADSE)_ > **Aptech**  
+       |→ _Pursuing a BSc. in Computer Science_ > **UoPeople** _(Expected Aug 2026)_
+
 <br>
 
 ## Some of the technologies I play with:  
@@ -25,8 +28,9 @@ Too lazy to write a CV? Don’t worry, I’m building something just for you, [c
 [![Notify Me](https://img.shields.io/badge/-Notify%20Me%20When%20This%20Launches-red?style=for-the-badge&logo=gmail&logoColor=white)](https://tr.ee/om_ciWqhe3)
 <br>
 
+
 ## 🐾 Random Fact: I Love Cats   
-<img src="https://cataas.com/cat" alt="Random Cat" width="300" height="300" />
+<img src="https://cataas.com/cat" alt="Random Cat" width="400" height="400" />
 <br>
 
 ## My Portfolios  
@@ -40,13 +44,12 @@ Too lazy to write a CV? Don’t worry, I’m building something just for you, [c
 LinkedIn has silenced me 😭, but here’s the link anyway:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirri-ayongwa/)  
-
-📧**[Email Me](mailto:ayongwasirri@gmail.com)**
+[![Email Me](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayongwasirri@gmail.com)  
 <br> 
 
 ## GitHub Stats  
 
-Profile Views since **August 21st, 2025**  
+Profile visits since **August 21st, 2025**  
 ![](https://count.getloli.com/get/@sirri-ayongwa.github.readme)
 
 <img src="https://streak-stats.demolab.com/?user=sirri-ayongwa&theme=dark&mode=weekly" />  
