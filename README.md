@@ -28,7 +28,7 @@ Too lazy to write a CV? Don’t worry, I’m building something just for you, [c
 
 
 ## 🐾 Random Fact: I Love Cats   
-<img src="https://cataas.com/cat" alt="Random Cat" width="400" height="400" />
+<img src="https://unsplash.com/photos/a-close-up-of-a-cat-with-its-tongue-out-J93PXpBPCFI" alt="Random Cat" width="400" height="400" />
 <br>
 
 ## My Portfolios  
