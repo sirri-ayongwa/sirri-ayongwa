@@ -21,7 +21,7 @@ I’m **Sirri Ayongwa**, a shy introvert who codes and manages social media page
 
 ## Sneak Peek into My Project
 
-Too lazy to write a CV? Don’t worry, I’m building something just for you, [check it out](https://find-resumebuilder-ai.vercel.app)  
+Too lazy to write a CV? Don’t worry, I’m building something just for you, sign up below:
 <br>
 [![Notify Me](https://img.shields.io/badge/-Notify%20Me%20When%20This%20Launches-red?style=for-the-badge&logo=gmail&logoColor=white)](https://tr.ee/om_ciWqhe3)
 <br>
