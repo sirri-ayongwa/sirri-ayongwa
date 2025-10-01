@@ -32,7 +32,7 @@ Too lazy to write a CV? Don’t worry, I’m building something just for you, si
 <br>
 
 ## My Portfolios  
-[![Frontend Developer](https://img.shields.io/badge/-Frontend%20Developer-943be7?style=for-the-badge&logo=vercel&logoColor=white)](https://sirri-portfolio-7lisv8t.gamma.site/)  
+[![Frontend Developer](https://img.shields.io/badge/-Frontend%20Developer-943be7?style=for-the-badge&logo=vercel&logoColor=white)](https://sirri-portfolio.vercel.app/)  
 [![Social Media Manager](https://img.shields.io/badge/-Social%20Media%20Manager-943be7?style=for-the-badge&logo=canva&logoColor=white)](https://sirri-ayongwa-social-media-manager.my.canva.site/)  
 <br>
 
