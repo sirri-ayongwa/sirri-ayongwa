@@ -55,5 +55,4 @@ Profile visits since **August 21st, 2025**
 
 ---
 
-_"Success is not final, failure is not fatal: it is the courage to continue that counts"_
-    - **Winston Churchill**
+_"The real measure of success in tech is not adoption, it's impact"_
