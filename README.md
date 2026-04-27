@@ -1,12 +1,8 @@
 # You found me, might as well get to know me
 
-I’m **Sirri Ayongwa**, a shy introvert who codes and manages social media pages.  
+I’m **Sirri Ayongwa**, I code and manage social media pages.  
 
-- **Location:** Wandering through the world🌍
-   - (Cameroon → Nigeria → Bangladesh)
-- **Education:**  
-   - |→ _Advanced Diploma in Software Engineering (ADSE)_ > **Aptech**  
-       - |→ _Pursuing a BSc. in Computer Science_ > **UoPeople** 
+
 <br>
 
 ## Some of the technologies I play with:  
