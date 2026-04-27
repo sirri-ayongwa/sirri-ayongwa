@@ -1,6 +1,6 @@
 # You found me, might as well get to know me
 
-I’m **Sirri Ayongwa**, I code and manage social media pages.  
+I’m **Sirri Ayongwa** | Frontend Developer
 
 
 <br>
